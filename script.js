@@ -1,3 +1,3 @@
 let greet = 'Я учу JavaScript!';
-alert(greet);
+console.log(greet);
 document.getElementById("greeting").innerHTML= "Я учу JavaScript!";
